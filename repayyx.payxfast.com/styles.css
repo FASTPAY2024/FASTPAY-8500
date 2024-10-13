@@ -47,7 +47,7 @@ body {
 .cpb {
     background-color: #f8f8f8;
     color:DeepSkyBlue;
-    border: #00BFFF
+    border: 1px solid #00BFFF;
     padding: 1px 2px;
     border-radius: 1px;
     cursor: pointer;
