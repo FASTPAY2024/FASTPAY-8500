@@ -1,15 +1,19 @@
 body {
     font-family: Arial, sans-serif;
+    height: 100px;
+    width: 50%;
     background-color: #ffffff;
     margin: 0;
     padding: opx;
 }
 img {
 width: 0px;
+height: 100px;
 margin: auto;
 }
 img {
 width: 0%;
+height: 200px;
 margin: auto;
 }
 
@@ -59,6 +63,7 @@ margin: auto;
     width: 20%;
     padding: 1px;
     margin-bottom: 0px;
+    height: 100px;
     border: 1px solid #ccc;
     border-radius: 0px;
 }
