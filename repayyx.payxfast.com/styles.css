@@ -6,9 +6,11 @@ body {
 }
 img {
 width: 0px;
+margin: auto;
 }
 img {
 width: 0%;
+margin: auto;
 }
 
 .box1 {
