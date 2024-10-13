@@ -4,6 +4,12 @@ body {
     margin: 0;
     padding: opx;
 }
+img {
+width: 800px;
+}
+img {
+width: 70%;
+}
 
 .box1 {
     background-color: #ffffff;
@@ -138,8 +144,10 @@ body {
     to {opacity: 1;}
 }
 
-/* Mobile styles */
-@media only screen and (max-width: 600px) {
+@media only screen and (max-width: 560px) {
+img {
+width: 100%;
+}
     .box1 {
         padding: 15px;
     }
