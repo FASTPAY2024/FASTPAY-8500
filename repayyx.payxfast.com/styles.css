@@ -43,7 +43,7 @@ width: 70%;
     color: black;
     border: none;
     padding: 1px 2px;
-    border-radius: 5px;
+    border-radius: 1px;
     cursor: pointer;
     transition: background 0.3s, transform 0.3s;
 }
