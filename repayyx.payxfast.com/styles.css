@@ -54,11 +54,11 @@ width: 70%;
 }
 
 .‎gtwImgs {
-    width: 80%;
-    padding: 10px;
+    width: 20%;
+    padding: 1px;
     margin-bottom: 0px;
     border: 1px solid #ccc;
-    border-radius: 20px;
+    border-radius: 0px;
 }
 
 .inp {
@@ -66,7 +66,7 @@ width: 70%;
     padding: 10px;
     margin-bottom: 0px;
     border: 1px solid #ccc;
-    border-radius: 20px;
+    border-radius: 0px;
 }
 
 .btn1, .btn2 {
@@ -146,7 +146,7 @@ width: 70%;
 
 @media only screen and (max-width: 560px) {
 img {
-width: 100%;
+width: 80%;
 }
     .box1 {
         padding: 15px;
