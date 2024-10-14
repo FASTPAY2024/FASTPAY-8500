@@ -34,7 +34,7 @@ body {
 .cpb {
     background-color: #f8f8f8;
     color:DeepSkyBlue;
-    width:  50%;
+    width:  60%;
     height: 60px;
     border: 1px solid #00BFFF;
     padding: 1px 1px;
@@ -75,7 +75,7 @@ body {
 }
 
 .btn1 {
-    background-color: #00BFFF;
+    background-color: #27A2FA;
     color: white;
 }
 
