@@ -6,16 +6,6 @@ body {
     margin: auto;
     padding: opx;
 }
-    img {
-    width:  5%;
-    height: 50px;
-    margin: auto;
-}
-    img {
-    width: 5%;
-    height: 50px;
-    margin: auto;
-}
 
 .box1 {
     background-color: #ffffff;
@@ -50,14 +40,6 @@ body {
 .a1 {
     background-color: #ffffff;
     color:DeepSkyBlue;
-}
-.‎gtwImgs {
-    width: 200%;
-    padding: 1px;
-    margin-bottom: 0px;
-    height: 20px;
-    border: 1px solid #ccc;
-    border-radius: 0px;
 }
 
 .inp {
