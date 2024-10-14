@@ -67,8 +67,10 @@ body {
 }
 
 .btn1, .btn2 {
+    width: 85%;
+    height: 50px;
     padding: 10px 15px;
-    border-radius: 5px;
+    border-radius:45px;
     border: 1px solid #ccc;
     cursor: pointer;
     transition: background 0.3s, transform 0.3s;
