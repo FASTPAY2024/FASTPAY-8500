@@ -38,7 +38,7 @@ body {
     transform: scale(1.05);
 }
 .a1 {
-    background-color: #ffffff;
+    background-color: #F8F9F9;
     color:DeepSkyBlue;
 }
 
@@ -97,7 +97,7 @@ body {
     background-color: #ffffff;
     margin: 15% auto;
     padding: 20px;
-    border: 1px solid #002aff;
+    border: 1px solid #F8F9F9;
     width: 80%;
     max-width: 400px;
     border-radius: 10px;
