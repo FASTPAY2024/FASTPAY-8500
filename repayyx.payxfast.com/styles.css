@@ -6,8 +6,14 @@ body {
     margin: auto;
     padding: 0px;
 }
+
 p {
   font-weight: bold;
+}
+
+img {
+  width: 50%;
+  height: auto; /* Maintain aspect ratio */
 }
 
 .box1 {
@@ -40,6 +46,7 @@ p {
     background-color: #f8f8f8;
     transform: scale(1.05);
 }
+
 .a1 {
     background-color: #F8F9F9;
     color:DeepSkyBlue;
