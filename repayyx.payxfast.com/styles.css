@@ -6,6 +6,9 @@ body {
     margin: auto;
     padding: 20px;
 }
+p {
+  font-weight: bold;
+}
 
 .box1 {
     background-color: #F8F9F9;
