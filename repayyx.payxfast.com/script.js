@@ -38,7 +38,7 @@ document.getElementById('confirmButton').onclick = function() {
         alert('Please enter a UTR number before submitting.');
     }
 };
-function radio() {
+function myFunction (radio) {
   var x = document.getElementById("rdaacls").value;
 }
 // Close modal when clicking outside
