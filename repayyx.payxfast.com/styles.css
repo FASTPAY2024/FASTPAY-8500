@@ -135,10 +135,7 @@ p {
     to {opacity: 1;}
 }
 
-@media only screen and (max-width: 560px) {
-    img {
-    width: 100%;
-}
+@media only screen and (max-width: 560px) 
     .box1 {
         padding: 15px;
     }
