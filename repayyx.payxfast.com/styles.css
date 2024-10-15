@@ -9,8 +9,13 @@ body {
 
 p {
   font-weight: bold;
+  font-size: 12px;
 }
 
+h1 h2 h3 h4 h5 h6{
+  font-weight: bold;
+  font-size: 12px;
+}
 
 
 .box1 {
@@ -47,6 +52,8 @@ p {
 .a1 {
     background-color: #FDFEFE;
     color:DeepSkyBlue;
+    font-size: 16px;
+    text-align: center;
 }
 
 .inp {
