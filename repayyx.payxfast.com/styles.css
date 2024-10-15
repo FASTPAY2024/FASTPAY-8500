@@ -2,7 +2,7 @@ body {
     font-family: Arial,sans-serif;
     height: auto;
     width: auto;
-    background-color: #F8F9F9;
+    background-color: #FDFEFE;
     margin: auto;
     padding: 0px;
 }
@@ -14,7 +14,7 @@ p {
 
 
 .box1 {
-    background-color: #F8F9F9;
+    background-color: #FDFEFE;
     padding: 20px;
     border-radius: 10px;
     box-shadow: 0 2px 10px hsla(9, 100%, 64%, 0);
@@ -45,7 +45,7 @@ p {
 }
 
 .a1 {
-    background-color: #F8F9F9;
+    background-color: #FDFEFE;
     color:DeepSkyBlue;
 }
 
