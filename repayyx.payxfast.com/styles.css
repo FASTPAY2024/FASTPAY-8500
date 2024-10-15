@@ -13,7 +13,7 @@ hr {
 
 p {
   font-weight: bold;
-  font-size: 10px;
+  font-size: 8px;
 }
 
 h1 h2 h3 h4 h5 h6{
@@ -124,19 +124,19 @@ box1 {
 
 .modal-text {
     color: #002aff;
-    font-size: 16px;
+    font-size: 10px;
     text-align: center;
 }
 
 .close {
-    color: blue;
+    color: black;
     float: right;
-    font-size: 28px;
+    font-size: 20px;
     font-weight: bold;
 }
 
 .close:hover, .close:focus {
-    color: blue;
+    color: black;
     text-decoration: none;
     cursor: pointer;
 }
