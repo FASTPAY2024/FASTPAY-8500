@@ -11,10 +11,7 @@ p {
   font-weight: bold;
 }
 
-img {
-  width: 20%;
-  height: auto; /* Maintain aspect ratio */
-}
+
 
 .box1 {
     background-color: #F8F9F9;
