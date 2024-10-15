@@ -11,6 +11,11 @@ hr {
     border: 0.1px  solid Gainsboro;
 }
 
+img {
+  margin-left:20%;
+  margin-right: 10%;
+}
+
 p {
   font-weight: bold;
   font-size: 8px;
