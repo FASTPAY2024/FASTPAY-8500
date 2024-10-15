@@ -7,6 +7,10 @@ body {
     padding: 15px;
 }
 
+hr {
+    border: 1px solid black;
+}
+
 p {
   font-weight: bold;
   font-size: 10px;
